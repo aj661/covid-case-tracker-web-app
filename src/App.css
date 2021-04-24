@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+}
+body{
+  background: #eee;
+  font-family: sans-serif;
+}
+.row{
+  display: flex;
+  width: 90%;
+  margin: 0 auto;
+  background: #fff;
+}
+
+
+
+
+/* .Newconfirmed{
+  padding: auto;
+  margin: 10px ;
+  margin-left: 15px;
+
+  text-align: center;
+}
+.TotalConfirmed{
+  padding: auto;
+  margin-top: 10px;
+  margin-left: 15px;
+  margin-bottom: 5px;
+
+}
+.NewDeaths{
+  padding: auto;
+  margin-top: 10px;
+  margin-left: 20px;
+
+}
+
+.TotalDeaths{
+  padding: auto;
+  margin-top: 10px;
+  margin-left: 25px;
+
+}
+
+.NewRecovered{
+  padding: auto;
+  margin-top: 10px;
+  margin-left: 25px;
+
+}
+.TotalRecovered{
+  padding: auto;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+ */
+
